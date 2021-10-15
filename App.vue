@@ -6,8 +6,8 @@
 </template>
 
 <script>
-import CalendarWeek from "./components/CalendarWeek.vue";
-import CalendarEntry from "./components/CalendarEntry.vue";
+import CalendarWeek from "./CalendarWeek.vue";
+import CalendarEntry from "./CalendarEntry.vue";
 
 export default {
   name: 'App',
